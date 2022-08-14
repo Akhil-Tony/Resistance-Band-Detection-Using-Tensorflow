@@ -11,7 +11,7 @@
 - Numpy
 
 ## :wrench: Application
-__The model can be used for fitness training application containg excersises with resistance band.
+__The model can be used for fitness training application containg excersises with resistance band.__
 
 ## :file_folder: Dataset
 This dataset consists of __1984 images__ belonging to two classes:

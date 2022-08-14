@@ -1,6 +1,6 @@
 <h1 align="center"> :mask: Resistance Band Detection</h1>
 <div align = "center">
-<img src = "[https://github.com/Akhil-Tony/Face-Mask-Detection/blob/master/20220814_011941.gif](https://github.com/Akhil-Tony/Resistance-Band-Detection-Using-Tensorflow/blob/master/20220814_010752.gif)" />
+<img src = "https://github.com/Akhil-Tony/Resistance-Band-Detection-Using-Tensorflow/blob/master/20220814_010752.gif" />
 </div>
 
 ## :star: Frameworks used

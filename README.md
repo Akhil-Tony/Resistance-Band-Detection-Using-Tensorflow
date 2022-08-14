@@ -1,4 +1,4 @@
-<h1 align="center"> :mask: Resistance Band Detection</h1>
+<h1 align="center"> :man_cartwheeling: Resistance Band Detection</h1>
 <div align = "center">
 <img src = "https://github.com/Akhil-Tony/Resistance-Band-Detection-Using-Tensorflow/blob/master/20220814_010752.gif" />
 </div>

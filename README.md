@@ -11,7 +11,7 @@
 - Numpy
 
 ## :wrench: Application
-__The model can be used for fitness training application containg excersises with resistance band.__
+__The model can be used for automated fitness training application to detect resistance band for excercises.__
 
 ## :file_folder: Dataset
 This dataset consists of __1984 images__ belonging to two classes:
@@ -25,4 +25,4 @@ This dataset consists of __1984 images__ belonging to two classes:
 
 ## :key: Results
 
-- Thanks to Transfer Learning, model gave 98% accuracy for Resistance Band Detection after training for n Epochs
+- The model gave 98% accuracy for Resistance Band Detection after training for n Epochs

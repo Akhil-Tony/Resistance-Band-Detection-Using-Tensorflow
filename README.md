@@ -14,10 +14,10 @@
 __The model can be used for automated fitness training application to detect resistance band for excercises.__
 
 ## :file_folder: Dataset
-This dataset consists of __1984 images__ belonging to two classes:
+This dataset consists of __55782 images__ belonging to two classes:
 <br>
-*	__with_band: 984 images__
-*	__without_band: 1000 images__
+*	__with_band: 22,907 images__
+*	__without_band: 32,875 images__
 * <a href = "https://www.kaggle.com/datasets/akhiltony/resistance-band-detection">download dataset</a>
 
 ## :gear: Data Augmentation 

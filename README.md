@@ -10,7 +10,7 @@
 - Keras
 - Numpy
 
-## Application
+## :wrench: Application
 __The model can be used for fitness training application containg excersises with resistance band.
 
 ## :file_folder: Dataset

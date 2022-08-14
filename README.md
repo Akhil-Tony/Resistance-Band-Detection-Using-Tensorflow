@@ -18,6 +18,7 @@ This dataset consists of __1984 images__ belonging to two classes:
 <br>
 *	__with_band: 984 images__
 *	__without_band: 1000 images__
+* <a href = "https://www.kaggle.com/datasets/akhiltony/resistance-band-detection">download dataset</a>
 
 ## :gear: Data Augmentation 
 
